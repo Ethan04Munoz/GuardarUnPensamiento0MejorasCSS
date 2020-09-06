@@ -3,6 +3,40 @@
 .liCajaUwU {
     /**/
     border: solid #002f72 2px;
+    border-radius: 25px;
+    font-size: 18px;
     height: 120%;
-    padding: 5%;
+    padding: 2%;
+}
+
+.parteIzquierdaUwU {
+    /*margin-ri: 50%;*/
+    left: 0;
+}
+
+#tweet {
+    font-size: 20px;
+    position: absolute;
+    margin-left: -150px;
+    margin-top: -300px;
+    width: 62%;
+}
+
+.labelTweetTextarea {
+    margin-top: 320px;
+}
+
+.colorgris {
+    margin-left: -150px;
+    font-size: 25px;
+}
+
+.agregarPensamiento {
+    width: 129%;
+    margin-left: -150px;
+}
+
+h4.colorgris {
+    margin-left: 0;
+    font-weight: bold;
 }
